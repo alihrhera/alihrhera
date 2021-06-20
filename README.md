@@ -6,6 +6,7 @@
 ### i know this 
 ![android](https://github.com/alihrhera/alihrhera/blob/main/android.png)    ![flutter](https://github.com/alihrhera/alihrhera/blob/main/flutter.png) ![java](https://github.com/alihrhera/alihrhera/blob/main/java.png)  ![kotlin](https://github.com/alihrhera/alihrhera/blob/main/kotlin.png)
 
+## If you want support you can buy me a coffee ![buymeacoffee](https://github.com/alihrhera/alihrhera/blob/main/buy_me_coffe.png) [buymeacoffee](https://www.buymeacoffee.com/alihrhera)
 
 <!--
 **alihrhera/alihrhera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

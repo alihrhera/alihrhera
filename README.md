@@ -1,10 +1,17 @@
 ### Hi there 👋
-- 🔭 I'm currently working at Elmeya Soft
+#### My Name is Ali Tarek Hrhera
+
+- 🔭 I'm currently Senior Android  at Elmeya Soft
+
+### i know this 
+![android](https://github.com/alihrhera/alihrhera/blob/main/android.png)    ![flutter](https://github.com/alihrhera/alihrhera/blob/main/flutter.png) ![java](https://github.com/alihrhera/alihrhera/blob/main/java.png)  ![kotlin](https://github.com/alihrhera/alihrhera/blob/main/kotlin.png)
+
 
 <!--
 **alihrhera/alihrhera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+[![flutter](https://github.com/alihrhera/alihrhera/blob/main/flutter.png)[![java](https://github.com/alihrhera/alihrhera/blob/main/java.png)[![kotlin](https://github.com/alihrhera/alihrhera/blob/main/kotlin.png)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...

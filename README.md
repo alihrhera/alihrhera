@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### My Name is Ali Tarek Hrhera
 
-- 🔭 I'm currently Senior Android  at Elmeya Soft
+- 🔭 I'm currently Senior Android Developer at Elmeya Soft
 
 ### i know this 
 ![android](https://github.com/alihrhera/alihrhera/blob/main/android.png)    ![flutter](https://github.com/alihrhera/alihrhera/blob/main/flutter.png) ![java](https://github.com/alihrhera/alihrhera/blob/main/java.png)  ![kotlin](https://github.com/alihrhera/alihrhera/blob/main/kotlin.png)

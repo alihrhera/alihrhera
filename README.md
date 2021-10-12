@@ -2,7 +2,7 @@
 #### My Name is Ali Tarek Hrhera
 
 - 🔭 I'm currently Senior Android Developer at Elmeya Soft
-<img src="https://raw.githubusercontent.com/alihrhera/alihrhera/main/gh-header-image(1).png" alt="banner that says Monica Powell - software engineer, content creator and community organizer alongside a cartoon illustration of Monica">
+<img src="https://raw.githubusercontent.com/alihrhera/alihrhera/main/gh-header-image(1).png" alt="banner that says Ali Hrhera Senior Android Developer ">
 
 ### i can write code using  this 
 ![android](https://github.com/alihrhera/alihrhera/blob/main/android.png)    ![flutter](https://github.com/alihrhera/alihrhera/blob/main/flutter.png) ![java](https://github.com/alihrhera/alihrhera/blob/main/java.png)  ![kotlin](https://github.com/alihrhera/alihrhera/blob/main/kotlin.png)

@@ -1,7 +1,8 @@
 ### Hi there 👋
 #### My Name is Ali Tarek Hrhera
 
-- 🔭 I'm currently Senior Android Developer at Elmeya Soft
+- 🔭 I'm currently open to word as Senior Android Developer with 5 yrars of Exp 
+- Check My Cv From Here  (http://www.bit.ly/alihrheraCv)
 <img src="https://raw.githubusercontent.com/alihrhera/alihrhera/main/gh-header-image(1).png" alt="banner that says Ali Hrhera Senior Android Developer ">
 
 ### i can write code using  this 

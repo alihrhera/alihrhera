@@ -24,6 +24,8 @@
 
 <img align="right" alt="GIF" height="160px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" />
 
+## Some Statistics
+![Ali Hhrera GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihrhera&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
 ## Experience
 -  Senior Android Developer at WNDO          ![ ](https://img.shields.io/badge/2021-prsent-green)
 -  M.S Android Developer at Elmeya soft      ![ ](https://img.shields.io/badge/2019-2021-red)

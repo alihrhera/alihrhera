@@ -1,8 +1,8 @@
-<img src="https://raw.githubusercontent.com/alihrhera/alihrhera/main/gh-header-image(1).png" alt="banner that says Ali Hrhera Senior Android Developer ">
+<img src="https://raw.githubusercontent.com/alihrhera/alihrhera/main/src/gh-header-image.gif" alt="banner that says Ali Hrhera Senior Android Developer ">
 
 # Hi there 👋 Welcome in my page 
 ### Here is Ali Tarek Hrhera
-<img align="right" alt="GIF" height="160px" width="160px" src="https://github.com/alihrhera/alihrhera/blob/main/android.gif" />
+<img align="right" alt="GIF" height="160px" width="160px" src="https://github.com/alihrhera/alihrhera/main/src/android.gif" />
 
 - 🔭 I'm currently  Senior Android Developer at WNDO 
 - 📫 How to reach me: Phone Call Or Email 

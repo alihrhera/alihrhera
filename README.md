@@ -2,7 +2,7 @@
 
 # Hi there 👋 Welcome in my page 
 ### Here is Ali Tarek Hrhera
-<img align="right" alt="GIF" height="160px" width="160px" src="https://github.com/alihrhera/alihrhera/main/src/android.gif" />
+<img align="right" alt="GIF" height="160px" width="160px" src="https://raw.githubusercontent.com/alihrhera/alihrhera/main/src/android.gif" />
 
 - 🔭 I'm currently  Senior Android Developer at WNDO 
 - 📫 How to reach me: Phone Call Or Email 
@@ -32,13 +32,19 @@
 
 <img align="right" alt="GIF" height="160px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" />
 
-## Some Statistics
-![Ali Hhrera GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihrhera&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
 ## Experience
 -  Senior Android Developer at WNDO          ![ ](https://img.shields.io/badge/2021-prsent-green)
 -  M.S Android Developer at Elmeya soft      ![ ](https://img.shields.io/badge/2019-2021-red)
 -  Android Developer at  ITBuziness          ![ ](https://img.shields.io/badge/2017-2019-red)
 -  Android Developer at  Tech Engines        ![ ](https://img.shields.io/badge/2016-2017-red)
+
+
+## Some Statistics
+![Ali Hhrera GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihrhera&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alihrhera&show_icons=true&locale=en&layout=compact" alt="alihrhera" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihrhera&" alt="alihrhera" /></p>
+
 
 
 ## you can support me by <p><a href="https://www.buymeacoffee.com/alihrhera"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="alihrhera" /></a></p><br><br>

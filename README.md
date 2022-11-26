@@ -11,11 +11,11 @@
       
       phone : 0201061407134
       
-- 🔭 I’m currently working on VADT (VolunteerAndroidDevelopersTraining-VADT) 
+- 🔭 I’m currently working on VADT [VolunteerAndroidDevelopersTraining-VADT](https://github.com/VolunteerAndroidDevelopersTraining-VADT) 
 - 🌱 I’m currently learning MVI 
 
     
-- Check My Cv From Here  (http://www.bit.ly/alihrheraCv)
+- Check My Cv From Here -> [Ali Hrhera Cv](http://www.bit.ly/alihrheraCv)
 
 
 ![ ](https://api.visitorbadge.io/api/VisitorHit?user=alihrhera&repo=alihrhera&label=VISITORS-since-Aug-2022&countColor=#004fb8)  

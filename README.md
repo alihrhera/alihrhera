@@ -1,7 +1,11 @@
+[![Stand With Palestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/banner-no-action.svg)](https://thebsd.github.io/StandWithPalestine)
+
 <img src="https://raw.githubusercontent.com/alihrhera/alihrhera/main/src/gh-header-image.gif" alt="banner that says Ali Hrhera Senior Android Developer ">
 
 # Hi there 👋 Welcome in my page 
 ### Here is Ali Tarek Hrhera
+[![StandWithPalestine](https://raw.githubusercontent.com/TheBSD/StandWithPalestine/main/badges/StandWithPalestine.svg)](https://github.com/TheBSD/StandWithPalestine/blob/main/docs/README.md)
+
 <img align="right" alt="GIF" height="160px" width="160px" src="https://raw.githubusercontent.com/alihrhera/alihrhera/main/src/android.gif" />
 
 - 🔭 I'm currently looking for a job as Senior Android Developer.

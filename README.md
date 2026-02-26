@@ -16,7 +16,7 @@
       phone : 0201061407134
       
 - 🔭 I’m currently working on VADT [VolunteerAndroidDevelopersTraining-VADT](https://github.com/VolunteerAndroidDevelopersTraining-VADT) 
-- 🌱 I’m currently learning MVI 
+
 
     
 - Check My Cv From Here -> [Ali Hrhera Cv](http://www.bit.ly/alihrheraCv)
@@ -38,7 +38,7 @@
 <img align="right" alt="GIF" height="160px" src="https://raw.githubusercontent.com/Potential17/Potential17/master/github-logo-octocat-.gif" />
 
 ## Experience
--  Senior Android Developer at [Softxpert](https://www.softxpert.com)            ![ ](https://img.shields.io/badge/2025-2025-red)
+
 -  Senior Android Developer at [HealloCare](https://www.heallocare.com/)            ![ ](https://img.shields.io/badge/2023-2025-red)
 -  Senior Android Developer at [WNDO](https://wndo.com/)          ![ ](https://img.shields.io/badge/2021-2023-red)
 -  M.S Android Developer at [ Elmeya soft](https://elmeyasoft.com/)      ![ ](https://img.shields.io/badge/2019-2021-red)

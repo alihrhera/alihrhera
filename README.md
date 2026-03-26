@@ -13,13 +13,7 @@
     
       email : alihrhera1@gmail.com
       
-      phone : 0201061407134
-      
 - 🔭 I’m currently working on VADT [VolunteerAndroidDevelopersTraining-VADT](https://github.com/VolunteerAndroidDevelopersTraining-VADT) 
-
-
-    
-- Check My Cv From Here -> [Ali Hrhera Cv](http://www.bit.ly/alihrheraCv)
 
 
 ![ ](https://api.visitorbadge.io/api/VisitorHit?user=alihrhera&repo=alihrhera&label=VISITORS-since-Aug-2022&countColor=#004fb8)  

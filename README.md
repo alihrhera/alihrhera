@@ -9,10 +9,6 @@
 <img align="right" alt="GIF" height="160px" width="160px" src="https://raw.githubusercontent.com/alihrhera/alihrhera/main/src/android.gif" />
 
 - 🔭 I'm currently looking for a job as Senior Android Developer.
-- 📫 How to reach me: Phone Call Or Email 
-    
-      email : alihrhera1@gmail.com
-      
 - 🔭 I’m currently working on VADT [VolunteerAndroidDevelopersTraining-VADT](https://github.com/VolunteerAndroidDevelopersTraining-VADT) 
 
 

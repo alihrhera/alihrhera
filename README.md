@@ -36,6 +36,12 @@
 -  Android Developer at  ITBuziness          ![ ](https://img.shields.io/badge/2017-2019-red)
 -  Android Developer at  Tech Engines        ![ ](https://img.shields.io/badge/2016-2017-red)
 
+## 🚀 Open Source Contributions
+
+| Project | Pull Request | Status |
+|---------|--------------|--------|
+| LibreTube | [#7916](https://github.com/libre-tube/LibreTube/pull/7916) | ✅ Merged |
+| LibreTube | [#8607](https://github.com/libre-tube/LibreTube/pull/8607) | 🟡 Open |
 
 ## Some Statistics
 ![Ali Hhrera GitHub Stats](https://github-readme-stats.vercel.app/api?username=alihrhera&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true)
